@@ -1,0 +1,1 @@
+Using Gephi for network analysis, we examined social interactions on Deezer to uncover user patterns and community structures. This analysis helps tailor products and subscription offerings, focusing on gender-specific communities and identifying key influencers to reach over 50% of the network, providing strategic insights for Deezer's marketing efforts.
